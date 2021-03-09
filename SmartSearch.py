@@ -7,7 +7,7 @@ win.title("Smart Search")
 var=IntVar()
 def go():
     sec=str(var.get())
-    
+    #deneme
     if txt.get()=="" or txt.get()==" ":
         print("Bos")
     else:
